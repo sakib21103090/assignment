@@ -113,7 +113,100 @@ li {
     background-repeat: no-repeat;
     width: 1140px;
     height: 300px;
-    margin: 200px 230px;
+    margin-right: 617px;
+    margin-left: 230px;
     border-radius: 8px;
+    margin-bottom: 100px;
    
+}
+.watch-info{
+    font-weight: 700;
+    font-size: 40px;
+    margin-right: 617px;
+    margin-left: 64px;
+    color: #FFFFFF;
+    padding-top: 59px;
+}
+.call-button{
+    height: 64px;
+    background-color: #3978ee;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    margin: 59px 617px 141px 64px;
+}
+/* footer style  */
+.foot-style{
+    text-align: left;
+}
+.footer{
+    display: flex;
+    text-align: center;
+    height: 577px;
+    gap: 200px;
+background: #151414;
+}
+.future{
+font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+margin-top: 130px;
+margin-right: 230px;
+margin-left: 200px;
+}
+.future-dis{
+font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+margin-top: 16px;
+margin-right: 230px;
+margin-left: 200px;
+}
+.email,.phone {
+    font-weight: 400;
+font-size: 16px;
+margin-top: 24px;
+margin-right: 230px;
+margin-left: 200px;
+color: #FFFFFF;
+}
+
+
+.ficon{
+    display: flex;
+    align-items: center;
+   gap:5%;
+    margin-top: 32px;
+margin-right: 230px;
+margin-left: 200px;
+    
+}
+
+.sub{
+    font-weight: 600;
+font-size: 25px;
+color: #FFFFFF;
+margin-bottom: 31px;
+margin-top: 130px;
+margin-right: 230px;
+margin-left: 200px;
+}
+.about-channel input{
+    margin-bottom: 16px;
+    border:8px solid #FFFFFF;
+
+}
+/* button style */
+.sub-button {
+    height: 64px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
 }
