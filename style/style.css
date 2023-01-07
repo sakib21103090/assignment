@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.bg-image {
+    background-image: url(/images/bdw.jpg);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+    left: 0px;
+    top: 0px;
+    background-size: cover;
+
+}
+
+.stylediv {
+    align-items: right;
+    padding: 216px 230px 364px 845px;
+    color: rgb(45, 12, 71);
+}
+
+.title {
+    font-weight: 700;
+    font-size: 65px;
+}
+
+.sub-title {
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+/* button style */
+.button {
+    width: 160px;
+    height: 64px;
+    background-color: #0a2ffd;
+    border-radius: 5px;
+    color: #FFFFFF;
+}
+
+/* year sec style */
+.info {
+    display: flex;
+    align-items: center;
+    margin: 260px;
+    border: 300px 300px;
+
+}
+
+.info-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+
+.info-dis {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    display: contents;
+}
+
+.gap {
+    margin-bottom: 20px;
+}
+
+/* list style */
+i {
+    color: green;
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.list {
+    list-style: none;
+
+}
+
+/* My plan style */
+.my-plan {
+    text-align: center;
+    margin: 200px;
+}
+.my-plan h2{
+    margin-bottom: 16px;
+}
+
+.plan-info {
+    display: flex;
+    gap: 100px;
+
+}
+
+.plan h2 {
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+}
+
+.plan p {
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+}
+/*  watch image style */
+.watch-image{
+    background-image:linear-gradient(to right,rgb(255, 0,0,1),rgb(255,0,0,0)),url(/images/watch.png);
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    margin: 200px 230px;
+    border-radius: 8px;
+   
+}
